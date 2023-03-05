@@ -60,9 +60,10 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 ## ```USER RAILWAY```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ImYanXiao/Elaina-MultiDevice)
+U
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/ZykoBotz-MD-V8)](https://repl.it/github/MagoInterior/ZykoBotz-MD-V8) 
 
 ---------
 
